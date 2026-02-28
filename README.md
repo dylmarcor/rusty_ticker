@@ -24,3 +24,5 @@ Options:
 
 - Data source: `https://api.binance.com/api/v3/ticker/24hr`
 - No API key required for the endpoint used in this starter tool.
+
+This project is a test using ChatGPT's Codex. 
